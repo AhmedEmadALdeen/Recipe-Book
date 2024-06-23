@@ -7,6 +7,6 @@ the structure:
 ├── greeksalad.jpg
 └── cookcss.css
 
-The contributor:
-Ahmed Emad Aldeen hassan --
+The contributors:
+Ahmed Emad Aldeen hassan /
 Ahdi Emad Aldeen Mohammed
