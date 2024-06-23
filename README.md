@@ -2,8 +2,11 @@ This project is a simple HTML webpage that lists some popular recipes, each pres
 
 The structure:
 1. cook.html 
+
 2. carbonara.jpg 
+
 3. tikkamasala.jpg 
+
 4.cookies.jpg
 
 5.greeksalad.jpg 
@@ -11,5 +14,5 @@ The structure:
 6.cookcss.css
 
 The contributors:
-Ahmed Emad Aldeen hassan /
+Ahmed Emad Aldeen hassan 
 Ahdi Emad Aldeen Mohammed
