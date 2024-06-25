@@ -36,7 +36,7 @@ main {
     margin-bottom: 20px;
     width: 45%;
     max-width: 400px;
-    padding: 20px;
+    padding: 60px;
 }
 
 .recipe h2 {
@@ -87,4 +87,8 @@ main {
     .recipe {
         width: 100%;
     }
+}
+img {
+    width: 100%;
+    height: 240px;
 }
